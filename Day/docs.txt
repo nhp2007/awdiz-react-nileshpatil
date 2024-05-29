@@ -1,0 +1,11 @@
+npm commands
+
+npm init -y   =>  package.json -> all packages, their versions, application commands scripts
+
+npm i packageName
+
+npm update packageName
+
+npm uninstall packageName
+ 
+npx packageName
